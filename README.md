@@ -31,7 +31,7 @@ Using the free Android app, drivers can configure filters such as payout, distan
 The **Walmart Spark Bot** runs through a dedicated Android application that is free to download. Setup takes only minutes, and once configured, the Spark Automation works continuously in the background.
 
 👉 **Start using Spark Automation here:**  
-https://botgrabber.com/spark
+https://botgrabber.com/spark-bot-grabber
 
 ---
 
@@ -63,4 +63,4 @@ Stop missing profitable Spark orders.
 Let **Spark Automation** work for you automatically.
 
 👉 **Official Spark Bot Page:**  
-https://botgrabber.com/spark
+https://botgrabber.com/spark-bot-grabber
