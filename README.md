@@ -6,9 +6,9 @@ If you're tired of missing good Spark orders, this **Spark Bot** gives you the s
 
 ---
 
-## What Is Walmart Spark Automation?
+## What Is Spark Automation?
 
-**Walmart Spark Automation** allows drivers to automatically grab Spark orders the moment they appear. The **Spark Bot** reacts faster than humanly possible, ensuring profitable deliveries are locked in before other drivers can claim them.
+**Spark Automation** allows drivers to automatically grab Walmart orders the moment they appear. **Spark Bot Grabber** reacts faster than humanly possible, ensuring profitable deliveries are locked in before other drivers can claim them.
 
 Using the free Android app, drivers can configure filters such as payout, distance, store type, and delivery style—then let the automation handle everything.
 
