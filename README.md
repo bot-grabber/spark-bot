@@ -1,6 +1,6 @@
 # What is the Spark Bot Grabber?
 
-The **Walmart Spark Bot** is a next-generation **Spark Automation** tool built to help drivers automatically secure **high-paying Walmart Spark orders** without manual tapping. The bot operates on full autopilot, scanning Spark offers in real time and instantly accepting orders that match your custom preferences.
+The **Spark Bot Grabber** is a next-generation **Walmart Automation** tool built to help drivers automatically secure **high-paying Walmart Spark orders** without manual tapping. The bot operates on full autopilot, scanning Spark offers in real time and instantly accepting orders that match your custom preferences.
 
 If you're tired of missing good Spark orders, this **Spark Bot** gives you the speed advantage needed to compete in busy markets.
 
